@@ -1,0 +1,6 @@
+framework module Pods_Pixel_city_two {
+  umbrella header "Pods-Pixel-city-two-umbrella.h"
+
+  export *
+  module * { export * }
+}
